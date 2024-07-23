@@ -22,5 +22,7 @@ git clone https://github.com/starllll/luci-app-adguardhome.git package/adguardho
 git clone https://github.com/starllll/homeproxy.git -b main-1.0 package/homeproxy
 git clone https://github.com/jeessy2/ddns-go.git package/ddns-go
 git clone https://github.com/pymumu/luci-app-smartdns.git package/smartdns
+git clone https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
 git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
 git clone https://github.com/jerrykuku/luci-app-argon-config.git package/luci-app-argon-config
+
